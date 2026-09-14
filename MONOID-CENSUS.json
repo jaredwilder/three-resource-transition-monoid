@@ -1,0 +1,38 @@
+[
+  {
+    "resources": 1,
+    "semantic_states": 3,
+    "events": 2,
+    "behavior_classes": 8,
+    "minimal_binary_bits": 3,
+    "max_shortest_representative_length": 3,
+    "depth_histogram": {"0": 1, "1": 2, "2": 4, "3": 1}
+  },
+  {
+    "resources": 2,
+    "semantic_states": 5,
+    "events": 4,
+    "behavior_classes": 90,
+    "minimal_binary_bits": 7,
+    "max_shortest_representative_length": 5,
+    "depth_histogram": {"0": 1, "1": 4, "2": 16, "3": 33, "4": 32, "5": 4}
+  },
+  {
+    "resources": 3,
+    "semantic_states": 9,
+    "events": 6,
+    "behavior_classes": 3536,
+    "minimal_binary_bits": 12,
+    "max_shortest_representative_length": 8,
+    "depth_histogram": {"0": 1, "1": 6, "2": 36, "3": 145, "4": 432, "5": 876, "6": 1088, "7": 776, "8": 176}
+  },
+  {
+    "resources": 4,
+    "semantic_states": 17,
+    "events": 8,
+    "behavior_classes": 417874,
+    "minimal_binary_bits": 19,
+    "max_shortest_representative_length": 13,
+    "depth_histogram": {"0": 1, "1": 8, "2": 64, "3": 385, "4": 1920, "5": 7704, "6": 23936, "7": 54880, "8": 89776, "9": 103872, "10": 80976, "11": 41168, "12": 12032, "13": 1152}
+  }
+]
